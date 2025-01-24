@@ -1,0 +1,2 @@
+Drawable Resources: Include images and other drawable resources (e.g., logo.png).
+Values Resources: Include strings.xml and any other resource files in the values directory.
